@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVKLMuvfI7w8oMlCWHQeSgGPB2fySHZzaxYOSdXB6qj8ohz4NqlWF4G+OnxAfDpVye/oHfIrbVb6kKQj2LPvzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\ScrumBoardWebApi\\ScrumBoard.BLL\\ScrumBoard.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.3.22175.4\\microsoft.extensions.caching.memory.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.3.22175.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.3.22175.4\\microsoft.extensions.options.7.0.0-preview.3.22175.4.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.3.22175.4\\microsoft.extensions.primitives.7.0.0-preview.3.22175.4.nupkg.sha512"
+  ],
+  "logs": []
+}

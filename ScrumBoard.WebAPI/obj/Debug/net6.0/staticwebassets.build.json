@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZDKU/7uHqW1GcWNd7bqQfAjCqHs+ZD7sDFgQAtF4n1Y=",
+  "Source": "ScrumBoard.WebAPI",
+  "BasePath": "_content/ScrumBoard.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

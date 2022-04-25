@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumBoard.DAL", "ScrumBoard.DAL\ScrumBoard.DAL.csproj", "{BFAED060-CFC3-4EAC-B287-E15AB8CFD252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumBoard.BLL", "ScrumBoard.BLL\ScrumBoard.BLL.csproj", "{7E95CA00-B3F3-495D-AA5C-4D9A61BE1322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumBoard.WebAPI", "ScrumBoard.WebAPI\ScrumBoard.WebAPI.csproj", "{F30965B7-BD7B-4038-98FE-BDB12A2F65A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAED060-CFC3-4EAC-B287-E15AB8CFD252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAED060-CFC3-4EAC-B287-E15AB8CFD252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAED060-CFC3-4EAC-B287-E15AB8CFD252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAED060-CFC3-4EAC-B287-E15AB8CFD252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E95CA00-B3F3-495D-AA5C-4D9A61BE1322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E95CA00-B3F3-495D-AA5C-4D9A61BE1322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E95CA00-B3F3-495D-AA5C-4D9A61BE1322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E95CA00-B3F3-495D-AA5C-4D9A61BE1322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30965B7-BD7B-4038-98FE-BDB12A2F65A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30965B7-BD7B-4038-98FE-BDB12A2F65A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30965B7-BD7B-4038-98FE-BDB12A2F65A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30965B7-BD7B-4038-98FE-BDB12A2F65A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
